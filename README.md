@@ -12,4 +12,4 @@ O trabalho se propõe a analisar metricas em dois diferentes  algoritmos. O  pri
 
 ## Vídeo explicativo
 
-`https://drive.google.com/drive/u/1/folders/1pEsoOlAXmntlGgW0ZVfpqj_dcQvwnePh`
+https://drive.google.com/drive/u/1/folders/1pEsoOlAXmntlGgW0ZVfpqj_dcQvwnePh
