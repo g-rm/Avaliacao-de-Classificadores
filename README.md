@@ -1,4 +1,4 @@
-#Comparação de Classificadores
+# Comparação de Classificadores
 
 O trabalho se propõe a analisar metricas em dois diferentes  algoritmos. O  primeiro  deles é um gerador de  hipóteses gerais e estritas.  O segundo, mais robusto, é o SVC (support vector classifier)
 
